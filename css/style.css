@@ -18,18 +18,19 @@ body {
 
 }
 
-h1 {
-	font-weight: 800;
+.top {
 	font-size: 48px;
 	color: #FFF;
+}
+
+h1 {
+	font-weight: 800;
 	padding-left: 125px;
 	padding-top: 30px;
 }
 
 h2 {
 	font-weight: 600;
-	font-size: 48px;
-	color: #FFF;
 	text-align: center;
 	padding-top: 120px;
 }
@@ -117,9 +118,29 @@ ul {
 	font-weight: 600;
 	font-size: 36px;
 	line-height: 50px;
-	//*padding-top: 100px;
-	padding-bottom: 25px;
-	padding-left: 300px;
-	padding-right: 300px;*//
 }
 
+.sign-up {
+	display: block;
+	width: 1200px;
+	height: 120px;
+	background-color: #f9e42e;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.sign-up-button {
+	display: block;
+	font-weight: 800;
+	font-size: 24px;
+	border-radius: 5px;
+	width: 350px;
+	height: 60px;
+	background-color: #033048;
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+	margin-left: 425px;
+	padding: 17px;
+ 
+}
