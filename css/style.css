@@ -86,13 +86,40 @@ ul {
 	line-height: 44px;
 	color: #606161;
 	list-style: disc inside;
-	width: 575px;
-	padding-left: 50px;
+	width: 525px;
+	padding-left: 75px;
 	padding-bottom: 100px;
 }
 
+.testimonial {
+	display: block;
+	background-image: url(../images/testimonial_bg.jpg);
+	width: 1200px;
+	height: 394px;
+	color: #FFF;
+	text-align: center;
+}
 
+.quote {
+	display: block;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 36px;
+	line-height: 50px;
+	padding-top: 75px;
+	padding-bottom: 10px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
 
-
-
+.attribution {
+	display: block;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 50px;
+	//*padding-top: 100px;
+	padding-bottom: 25px;
+	padding-left: 300px;
+	padding-right: 300px;*//
+}
 
