@@ -1,0 +1,98 @@
+/*
+Project Name: Relaxr Landing Page
+Author: Your Name
+Front End Developer @GA in NYC
+*/
+
+/* Box Model Hack */
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
+body {
+	background-image: url(../images/header_bg.jpg);
+	background-repeat: no-repeat;
+	font-family: 'Open Sans', Arial, sans-serif;
+
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 48px;
+	color: #FFF;
+	padding-left: 125px;
+	padding-top: 30px;
+}
+
+h2 {
+	font-weight: 600;
+	font-size: 48px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 120px;
+}
+
+.top-button {
+	display: block;
+	font-weight: 800;
+	font-size: 28px;
+	border-radius: 5px;
+	width: 250px;
+	height: 60px;
+	background-color: #f9e42e;
+	text-align: center;
+	text-decoration: none;
+	color: #121212;
+	margin-left: 475px;
+	margin-top: 90px;
+	padding: 15px;
+
+}
+
+.benefits {
+	display: block;
+	margin-top: 200px;
+	background-color: #f0efef;
+	width: 1200px; 
+	padding-left: 125px;
+
+}
+
+h3 {
+	display: block;
+	font-weight: 600;
+	font-size: 40px;
+	color: #121212;
+	margin-top: 300px;
+	padding-top: 100px;
+	padding-bottom: 25px;
+}
+
+p {
+	display: block;
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 38px;
+	color: #606161;
+	width: 625px;
+	padding-bottom: 50px;
+}
+
+ul {
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 44px;
+	color: #606161;
+	list-style: disc inside;
+	width: 575px;
+	padding-left: 50px;
+	padding-bottom: 100px;
+}
+
+
+
+
+
+
